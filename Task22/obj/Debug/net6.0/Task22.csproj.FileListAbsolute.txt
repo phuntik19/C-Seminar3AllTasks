@@ -1,0 +1,15 @@
+c:\Users\Админ\Desktop\C#\Seminar3\Task22\bin\Debug\net6.0\Task22.exe
+c:\Users\Админ\Desktop\C#\Seminar3\Task22\bin\Debug\net6.0\Task22.deps.json
+c:\Users\Админ\Desktop\C#\Seminar3\Task22\bin\Debug\net6.0\Task22.runtimeconfig.json
+c:\Users\Админ\Desktop\C#\Seminar3\Task22\bin\Debug\net6.0\Task22.dll
+c:\Users\Админ\Desktop\C#\Seminar3\Task22\bin\Debug\net6.0\Task22.pdb
+c:\Users\Админ\Desktop\C#\Seminar3\Task22\obj\Debug\net6.0\Task22.csproj.AssemblyReference.cache
+c:\Users\Админ\Desktop\C#\Seminar3\Task22\obj\Debug\net6.0\Task22.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Админ\Desktop\C#\Seminar3\Task22\obj\Debug\net6.0\Task22.AssemblyInfoInputs.cache
+c:\Users\Админ\Desktop\C#\Seminar3\Task22\obj\Debug\net6.0\Task22.AssemblyInfo.cs
+c:\Users\Админ\Desktop\C#\Seminar3\Task22\obj\Debug\net6.0\Task22.csproj.CoreCompileInputs.cache
+c:\Users\Админ\Desktop\C#\Seminar3\Task22\obj\Debug\net6.0\Task22.dll
+c:\Users\Админ\Desktop\C#\Seminar3\Task22\obj\Debug\net6.0\refint\Task22.dll
+c:\Users\Админ\Desktop\C#\Seminar3\Task22\obj\Debug\net6.0\Task22.pdb
+c:\Users\Админ\Desktop\C#\Seminar3\Task22\obj\Debug\net6.0\Task22.genruntimeconfig.cache
+c:\Users\Админ\Desktop\C#\Seminar3\Task22\obj\Debug\net6.0\ref\Task22.dll
